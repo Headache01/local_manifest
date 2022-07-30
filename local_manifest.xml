@@ -3,6 +3,7 @@
 
  <!-- Trees -->
  <project path="device/GM/GM8_sprout" name="Headache01/android_device_GM_GM8_sprout" remote="github" revision="havoc-10" />
+ <project path="vendor/gm/GM8_sprout" name="Headache01/android_vendor_GM_GM8_sprout" remote="github" revision="ten" />
  <project path="kernel/GM/GM8_sprout" name="ArrowOS-Devices/android_kernel_gm_msm8937" remote="github" revision="arrow-11.0" />
  
 </manifest>
