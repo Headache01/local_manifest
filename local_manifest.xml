@@ -3,8 +3,8 @@
 
  <!-- Trees -->
  <project path="device/xiaomi/ruby" name="Headache01/android_device_xiaomi_ruby" remote="github" revision="evolution-14" />
- <project path="vendor/xiaomi/ruby" name="wodanesdag/android_vendor_xiaomi_ruby" remote="github" revision="14.0" />
- <project path="kernel/xiaomi/mt6877" name="wodanesdag/android_kernel_xiaomi_mt6785" remote="github" revision="14.0-ksu" />
+ <project path="vendor/xiaomi/ruby" name="Headache01/android_vendor_xiaomi_ruby" remote="github" revision="14.0" />
+ <project path="kernel/xiaomi/mt6877" name="xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877" remote="github" revision="lineage-20" />
  <project path="./hardware/mediatek" name="xiaomi-mediatek-devs/android_hardware_mediatek" remote="github" revision="lineage-21" />
  <project path="./hardware/xiaomi" name="xiaomi-mediatek-devs/android_hardware_xiaomi" remote="github" revision="lineage-21" />
  <project path="./device/xiaomi/miuicamera-ruby" name="xiaomi-mediatek-devs/android_device_xiaomi_miuicamera-ruby" remote="github" revision="lineage-21" />
